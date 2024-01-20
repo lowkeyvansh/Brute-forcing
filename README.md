@@ -2,12 +2,13 @@ Custom Wordlist Generator
 Overview
 This tool is designed to generate custom wordlists for security testing and penetration testing purposes. It can be used responsibly to assess the strength of passwords and enhance the security of systems. Please note that any misuse of this tool for unauthorized access or malicious activities is strictly prohibited.
 
-Features
+Features:
+````
 Customizable wordlist generation based on specified parameters.
 Support for various character sets, lengths, and patterns.
 Quick and efficient wordlist creation for penetration testing.
 
-
+````
 **Usage**
 
 > 1. Clone the repository:
